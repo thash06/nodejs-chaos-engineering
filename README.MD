@@ -2,7 +2,7 @@
 Start using: 
 
     npm run dev
-    npm run debug -> Does not work in Intellij. Try VS Code
+    npm run debug -> Does not work in Intellij. Try using VSCode
 
 
 Modules included
